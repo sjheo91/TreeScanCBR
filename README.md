@@ -1,8 +1,6 @@
 TreeScan for conditonal baseline risk
 ================
 
-# TreeScan Statistics with Baseline Risk Consideration
-
 ## Overview
 This repository implements an enhanced version of TreeScan statistics that incorporates baseline risk considerations for comparing adverse event rates between different medications. The traditional TreeScan method, based on the Bernoulli model, allows for comparing either pre-post rates for a single medication or adverse event rates between two medications. However, this implementation addresses a critical gap in the current methodology by accounting for baseline risk when comparing pre-post changes between different medications.
 
