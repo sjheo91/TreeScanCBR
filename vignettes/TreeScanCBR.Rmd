@@ -1,0 +1,19 @@
+---
+title: "TreeScanCBD"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{TreeScanCBD}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(TreeScanCBD)
+```
